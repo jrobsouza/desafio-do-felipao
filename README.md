@@ -1,4 +1,4 @@
-# Desafio do do Felipe da DIO, da materia de logica de programação basico
+# Desafio do Felipe da DIO, da materia de logica de programação basico.
 
  Instruções para entrega
 
