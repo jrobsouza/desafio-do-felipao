@@ -1,9 +1,10 @@
-#Desafio do do Felipe da DIO, da materia de logica de programação basico.
+# Desafio do do Felipe da DIO, da materia de logica de programação basico
 
-Instruções para entrega
-# 1️⃣ Desafio Classificador de nível de Herói
+ Instruções para entrega
 
-**O Que deve ser utilizado**
+ 1️⃣ Desafio Classificador de nível de Herói
+
+O Que deve ser utilizado
 
 - Variáveis
 - Operadores
